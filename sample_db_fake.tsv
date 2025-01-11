@@ -1,25 +1,25 @@
-species	species_long	accession	tissue	tissue_long	sample_name	replicate	treatment	growth_protocol	pooling_scheme	rna_extraction kit	timepoint	library_prep	growth_site	pe_se	ballgown_dir	include
-bnapus	Brassica napus	Express	apex	apex	w1_1	1	NA	NA	NA	NA	1	NA	NA	SE	ERR_Matar_et_al_SRR12266438_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w1_2	2	NA	NA	NA	NA	1	NA	NA	SE	ERR_Matar_et_al_SRR12266437_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w1_3	3	NA	NA	NA	NA	1	NA	NA	SE	ERR_Matar_et_al_SRR12266426_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w2_1	1	NA	NA	NA	NA	2	NA	NA	SE	ERR_Matar_et_al_SRR12266419_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w2_2	2	NA	NA	NA	NA	2	NA	NA	SE	ERR_Matar_et_al_SRR12266420_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w2_3	3	NA	NA	NA	NA	2	NA	NA	SE	ERR_Matar_et_al_SRR12266421_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w3_1	1	NA	NA	NA	NA	3	NA	NA	SE	ERR_Matar_et_al_SRR12266416_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w3_2	2	NA	NA	NA	NA	3	NA	NA	SE	ERR_Matar_et_al_SRR12266417_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w3_3	3	NA	NA	NA	NA	3	NA	NA	SE	ERR_Matar_et_al_SRR12266418_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w5_1	1	NA	NA	NA	NA	5	NA	NA	SE	ERR_Matar_et_al_SRR12266415_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w5_2	2	NA	NA	NA	NA	5	NA	NA	SE	ERR_Matar_et_al_SRR12266435_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w5_3	3	NA	NA	NA	NA	5	NA	NA	SE	ERR_Matar_et_al_SRR12266436_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w6_1	1	NA	NA	NA	NA	6	NA	NA	SE	ERR_Matar_et_al_SRR12266432_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w6_2	2	NA	NA	NA	NA	6	NA	NA	SE	ERR_Matar_et_al_SRR12266433_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w6_3	3	NA	NA	NA	NA	6	NA	NA	SE	ERR_Matar_et_al_SRR12266434_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w7_1	1	NA	NA	NA	NA	7	NA	NA	SE	ERR_Matar_et_al_SRR12266429_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w7_2	2	NA	NA	NA	NA	7	NA	NA	SE	ERR_Matar_et_al_SRR12266430_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w7_3	3	NA	NA	NA	NA	7	NA	NA	SE	ERR_Matar_et_al_SRR12266431_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w8_1	1	NA	NA	NA	NA	8	NA	NA	SE	ERR_Matar_et_al_SRR12266425_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w8_2	2	NA	NA	NA	NA	8	NA	NA	SE	ERR_Matar_et_al_SRR12266427_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w8_3	3	NA	NA	NA	NA	8	NA	NA	SE	ERR_Matar_et_al_SRR12266428_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w9_1	1	NA	NA	NA	NA	9	NA	NA	SE	ERR_Matar_et_al_SRR12266424_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w9_2	2	NA	NA	NA	NA	9	NA	NA	SE	ERR_Matar_et_al_SRR12266423_trimmed	YES
-bnapus	Brassica napus	Express	apex	apex	w9_3	3	NA	NA	NA	NA	9	NA	NA	SE	ERR_Matar_et_al_SRR12266422_trimmed	YES
+species	species_long	accession	tissue	tissue_long	sample_name	replicate	treatment	growth_protocol	pooling_scheme	rna_extraction kit	timepoint	library_prep	growth_site	pe_se	ballgown_dir	include	dataset
+bnapus	Brassica napus	Express	apex	apex	w1_1	1	NA	NA	NA	NA	1	NA	NA	SE	ERR_Matar_et_al_SRR12266438_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w1_2	2	NA	NA	NA	NA	1	NA	NA	SE	ERR_Matar_et_al_SRR12266437_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w1_3	3	NA	NA	NA	NA	1	NA	NA	SE	ERR_Matar_et_al_SRR12266426_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w2_1	1	NA	NA	NA	NA	2	NA	NA	SE	ERR_Matar_et_al_SRR12266419_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w2_2	2	NA	NA	NA	NA	2	NA	NA	SE	ERR_Matar_et_al_SRR12266420_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w2_3	3	NA	NA	NA	NA	2	NA	NA	SE	ERR_Matar_et_al_SRR12266421_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w3_1	1	NA	NA	NA	NA	3	NA	NA	SE	ERR_Matar_et_al_SRR12266416_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w3_2	2	NA	NA	NA	NA	3	NA	NA	SE	ERR_Matar_et_al_SRR12266417_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w3_3	3	NA	NA	NA	NA	3	NA	NA	SE	ERR_Matar_et_al_SRR12266418_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w5_1	1	NA	NA	NA	NA	5	NA	NA	SE	ERR_Matar_et_al_SRR12266415_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w5_2	2	NA	NA	NA	NA	5	NA	NA	SE	ERR_Matar_et_al_SRR12266435_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w5_3	3	NA	NA	NA	NA	5	NA	NA	SE	ERR_Matar_et_al_SRR12266436_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w6_1	1	NA	NA	NA	NA	6	NA	NA	SE	ERR_Matar_et_al_SRR12266432_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w6_2	2	NA	NA	NA	NA	6	NA	NA	SE	ERR_Matar_et_al_SRR12266433_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w6_3	3	NA	NA	NA	NA	6	NA	NA	SE	ERR_Matar_et_al_SRR12266434_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w7_1	1	NA	NA	NA	NA	7	NA	NA	SE	ERR_Matar_et_al_SRR12266429_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w7_2	2	NA	NA	NA	NA	7	NA	NA	SE	ERR_Matar_et_al_SRR12266430_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w7_3	3	NA	NA	NA	NA	7	NA	NA	SE	ERR_Matar_et_al_SRR12266431_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w8_1	1	NA	NA	NA	NA	8	NA	NA	SE	ERR_Matar_et_al_SRR12266425_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w8_2	2	NA	NA	NA	NA	8	NA	NA	SE	ERR_Matar_et_al_SRR12266427_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w8_3	3	NA	NA	NA	NA	8	NA	NA	SE	ERR_Matar_et_al_SRR12266428_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w9_1	1	NA	NA	NA	NA	9	NA	NA	SE	ERR_Matar_et_al_SRR12266424_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w9_2	2	NA	NA	NA	NA	9	NA	NA	SE	ERR_Matar_et_al_SRR12266423_trimmed	YES	ds_mater
+bnapus	Brassica napus	Express	apex	apex	w9_3	3	NA	NA	NA	NA	9	NA	NA	SE	ERR_Matar_et_al_SRR12266422_trimmed	YES	ds_mater
